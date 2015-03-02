@@ -1,5 +1,5 @@
 {
-  "server": "10.5.2.100:5556",
+  "server": "127.0.0.1:5556",
   "server_type": "ws",
   "workspaces": [
     {
